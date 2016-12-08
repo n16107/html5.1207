@@ -1,0 +1,10 @@
+/*
+ color
+ -
+ */
+ 
+/*a[href^="http"] {color: orange;
+}*/
+/*a[href$=".com"] {color: orange;
+}*/
+/*a[href*=".co.jp"] {color: orange;}

@@ -7,4 +7,4 @@
 }*/
 /*a[href$=".com"] {color: orange;
 }*/
-/*a[href*=".co.jp"] {color: orange;}
+a[href*=".co.jp"] {color: orange;}

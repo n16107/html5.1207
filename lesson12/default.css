@@ -1,0 +1,18 @@
+/*
+ color
+ -
+ */
+div {
+	width: 200px;
+	height: 200px;
+	/*background-image:
+linear-gradient(skyblue, blue);*/
+/*background-image:
+ linear-gradient(to top left,skyblue,blue);*/
+/*background-image:
+linear-gradient(lightgreen 10%,
+skyblue 70%,blue);*/
+background-image:
+repeating-linear-gradient(lightgreen 10%,skyblue 70%,blue);
+}
+

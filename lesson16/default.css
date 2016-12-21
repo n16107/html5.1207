@@ -1,0 +1,24 @@
+/*
+ color
+ -
+ */
+div {
+	width: 200px;
+	height: 100px;
+	margin-bottom: 20px;
+	position:absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#box1 {
+	background: skyblue;
+	opacity: .5;
+}
+#box2 {
+	background: orange;
+	opacity: .5;
+	-webkit-transform:rotate(30deg);
+	transform:rotate(30deg);
+}
+

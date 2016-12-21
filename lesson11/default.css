@@ -8,9 +8,9 @@ header {
 	height: 200px;
 	background:
 
-  	url('0001.gif') no-repeat 0 0,
-  	url('0002.gif') no-repeat 30px . 30px,
-  	url('0003.gif') no-repeat bottom right;
+  	url('flower-1.resize.jpg') no-repeat 0 0,
+  	url('flower-1.resize.jpg') no-repeat 30px 30px,
+  	url('flower-1.resize.jpg') no-repeat bottom right;
 
 
 }
